@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list {
+  list-style: none;
+}
+.un-list {
+  margin: 5em;
+}
